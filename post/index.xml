@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mohammad Zawad Tahmeed</title>
+    <link>https://mz-tahmeed.github.io/zawad/post/</link>
+    <description>Recent content in Projects on Mohammad Zawad Tahmeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mz-tahmeed.github.io/zawad/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Celebrity Face Recognition Project</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-2/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-2/</guid>
+      <description>Created a tool that predicts famous celebrities from a scraped image dataset with 78% accuracy.
+  Scraped over 1000 images from Google photos using python and selenium.
+  Engineered features from the images of every Celebrity to identify face and eyes and cropped the perfect portion by using OpenCV(Haarcascades) and Wavelet.
+  Optimized SVM, Random Forest, and Logistic Regression using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Cotton Disease Prediction Project With Deep Learning</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-4/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-4/</guid>
+      <description>Created a tool using transfer learning that recognize fresh and diseased cotton leaves with 95% accuracy after running 20 epochs.
+  Optimized Inception V3, and Resnet 50 to reach the best model.
+  Built a client facing UI using JavaScript, HTML and CSS.
+  Built a client facing API using flask.
+  Uploaded this project on Cloud using Heroku.
+    Cotton Disease Predicter UI   This project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Stock Sentiment Analysis</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-7/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-7/</guid>
+      <description>Created a tool using Natural Language Processing that Analyze Stocks from a Kaggle dataset with 85% accuracy.
+  Completed some EDA process and Join the Headlines together.
+  Implement Bag of Words for Model Implementation.
+  Optimized Random Forest to build the best model.
+    This project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Real Estate Price Prediction Project</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-3/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-3/</guid>
+      <description>Created a tool that predicts home prices from a Kaggle dataset with 85% accuracy.
+  Engineered features from the dataset added new features also remove unwanted features using business logic and dimensionality reduction.
+  Remove outlier using Standard Deviation and Mean also plot the data using Matlotlib to understand better .
+  Optimized Linear Regression, Decision Tree, and Lasso Regression using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Bank Note Authentication with Docker</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-5/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-5/</guid>
+      <description>Created a tool using Random Forest that recognize bank notes from a Kaggle dataset with 99% accuracy.
+  Optimized Random Forest to build the best model.
+  Built a client facing UI using Streamlit.
+  Built a client facing API using flask.
+  Uploaded this project on Cloud using Heroku.
+    Bank Note Authenticator UI   This project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Simple Desktop File Organizer</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-8/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-8/</guid>
+      <description>Created a simple Desktop File Organizer with Python.    This project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Data Science Salary Prediction</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-1/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-1/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 4K) to help data scientists negotiate their income when they get a job.
+  Scraped over 1000 job descriptions from Glassdoor using python and selenium.
+  Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+  Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Flappy Bird AI</title>
+      <link>https://mz-tahmeed.github.io/zawad/post/chapter-6/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mz-tahmeed.github.io/zawad/post/chapter-6/</guid>
+      <description>Created a Flappy Bird Game Using Neat.
+  Optimized Random Forest to build the best model.
+  Built a client facing API using flask.
+  Uploaded this project on Gitpod.
+    Game&amp;#39;s UI   This project&amp;rsquo;s GitHub Repository
+This Project&amp;rsquo;s Gitpod Deployment Link</description>
+    </item>
+    
+  </channel>
+</rss>
